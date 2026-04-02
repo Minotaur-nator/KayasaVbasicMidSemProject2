@@ -31,7 +31,7 @@ optional fees, and **RadioButtons** for mutually exclusive residency choices.
 processing button.
 * **Robustness:** Uses **Short-circuiting logical operators** (`AndAlso`, `OrElse`) and
 `TryParse` methods to prevent runtime errors during financial calculations.
-## ��️ Technical Implementation Standards
+## Technical Implementation Standards
 To ensure code quality and maintainability, these projects adhere to industry-standard
 development principles taught in the course:
 * **Ground Rules:** Mandatory use of `Option Explicit On` to force variable declaration and
