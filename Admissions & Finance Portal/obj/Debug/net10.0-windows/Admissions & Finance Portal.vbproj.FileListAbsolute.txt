@@ -1,0 +1,17 @@
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Admissions & Finance Portal.exe
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Admissions & Finance Portal.deps.json
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Admissions & Finance Portal.runtimeconfig.json
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Admissions & Finance Portal.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\bin\Debug\net10.0-windows\Admissions & Finance Portal.pdb
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions___Finance_Portal.Form1.resources
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions & Finance Portal.vbproj.GenerateResource.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions & Finance Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions & Finance Portal.AssemblyInfoInputs.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions & Finance Portal.AssemblyInfo.vb
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions & Finance Portal.vbproj.CoreCompileInputs.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions & Finance Portal.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\refint\Admissions & Finance Portal.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions & Finance Portal.pdb
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions & Finance Portal.genruntimeconfig.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\ref\Admissions & Finance Portal.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\Admissions & Finance Portal\obj\Debug\net10.0-windows\Admissions___Finance_Portal.Resources.resources
